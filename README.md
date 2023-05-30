@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" alt="Data Science Banner" width="600" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Amit Kedia</h1>
 <h3 align="center">A data enthusiast at heart, I am a Data Scientist with a knack for uncovering insights from a sea of data. My joy lies in working in Python and R.</h3>
@@ -32,3 +35,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkedia007&show_icons=true&locale=en" alt="amitkedia007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkedia007&" alt="amitkedia007" /></p>
+
+{
+  "name": "Amit Kedia",
+  "role": "Data Scientist",
+  "aboutMe": {
+    "description": "A data enthusiast at heart, I am a Data Scientist with a knack for uncovering insights from a sea of data. My joy lies in working in Python and R.",
+    "skills": ["Python", "R", "Data Analysis", "Machine Learning"],
+    "interests": ["Data Science", "Machine Learning", "Artificial Intelligence"]
+  }
+}
+
