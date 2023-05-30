@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Amit Kedia</h1>
 <h3 align="center">A data enthusiast at heart, I am a Data Scientist with a knack for uncovering insights from a sea of data. My joy lies in working in Python and R.</h3>
-<p align="right" alt = "Coding" width = "400"> <src="https://wallpapercave.com/wp/wp4748495.jpg"/> </p>
+<p align="right" alt = "Coding" width = "400" src="https://wallpapercave.com/wp/wp4748495.jpg"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkedia007&label=Profile%20views&color=0e75b6&style=flat" alt="amitkedia007" /> </p>
 
 - 🔭 I’m currently working on [Whatsapp Chat Analyzer](https://github.com/amitkedia007/Whatsapp-chat-analyzer)
