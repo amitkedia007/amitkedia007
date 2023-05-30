@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Amit Kedia</h1>
 <h3 align="center">A data enthusiast at heart, I am a Data Scientist with a knack for uncovering insights from a sea of data. My joy lies in working in Python and R.</h3>
-<img align="right">< alt="Coding" width="300" src="https://thumbs.gfycat.com/AchingZestyFinnishspitz-max-1mb.gif">
+<img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/AchingZestyFinnishspitz-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkedia007&label=Profile%20views&color=0e75b6&style=flat" alt="amitkedia007" /> </p>
 
