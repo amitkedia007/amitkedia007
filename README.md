@@ -35,13 +35,31 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkedia007&" alt="amitkedia007" /></p>
 
-{
-  "name": "Amit Kedia",
-  "role": "Data Scientist",
-  "aboutMe": {
-    "description": "A data enthusiast at heart, I am a Data Scientist with a knack for uncovering insights from a sea of data. My joy lies in working in Python and R.",
-    "skills": ["Python", "R", "Data Analysis", "Machine Learning"],
-    "interests": ["Data Science", "Machine Learning", "Artificial Intelligence"]
-  }
-}
+<h2>About Me:</h2>
+<p>
+Highly motivated and detail-oriented Data Science and Analytics graduate with a strong foundation in machine
+learning, big data processing, and predictive analytics.
+Proven ability to leverage Python, R, and SQL to design and implement machine learning models, conduct data
+analysis, and drive decision-making processes.
+Demonstrated expertise in using Hadoop and Spark for large-scale data storage and processing.
+Experienced in developing interactive data visualizations using Tableau.
+Recognized for leadership skills, with a track record of leading successful data science projects and coordinating
+research efforts.
+Seeking to apply these skillsin a data science role to help organizationsturn data into actionable insights.
+</p>
+
+<h2>Skills:</h2>
+<ul>
+  <li>Python</li>
+  <li>R</li>
+  <li>Data Analysis</li>
+  <li>Machine Learning</li>
+</ul>
+
+<h2>Interests:</h2>
+<ul>
+  <li>Data Science</li>
+  <li>Machine Learning</li>
+  <li>Artificial Intelligence</li>
+</ul>
 
