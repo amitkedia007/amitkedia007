@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkedia007&label=Profile%20views&color=0e75b6&style=flat" alt="amitkedia007" /> </p>
 
-- 🔭 I’m currently working on [Whatsapp Chat Analyzer](https://github.com/amitkedia007/Whatsapp-chat-analyzer)
+- 🔭 I’m currently working on [Text-Summerizer-using-NLP](https://github.com/amitkedia007/Text-Summerizer-using-NLP)
 
 - 🌱 I’m currently learning **Deep Learning**
 
