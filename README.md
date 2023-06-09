@@ -1,7 +1,7 @@
 
 <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" alt="Banner" width="100%" height = "350px">
 
-<h1 align="center">Hi 👋, I'm Amit Kedia</h1>
+<h1 align="center">Heya 👋, Amit Kedia this side</h1>
 <h3 align="center">A data enthusiast at heart, I am a Data Scientist with a knack for uncovering insights from a sea of data. My joy lies in working in Python and R.</h3>
 <img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/AchingZestyFinnishspitz-max-1mb.gif">
 
