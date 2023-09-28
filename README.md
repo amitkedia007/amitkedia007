@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkedia007&label=Profile%20views&color=0e75b6&style=flat" alt="amitkedia007" /> </p>
 
-- 🔭 I’m currently working on [Text-Summerizer-using-NLP](https://github.com/amitkedia007/Text-Summerizer-using-NLP)
+- 🔭 I’m currently working on [Financial-Fraud-Detection-Using-LLMs](https://github.com/amitkedia007/Financial-Fraud-Detection-Using-LLMs)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and Generative AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning And Deep Learning Projects**
 
