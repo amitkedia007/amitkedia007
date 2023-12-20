@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning And Deep Learning Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amitkedia007](https://github.com/amitkedia007)
+- 👨‍💻 All of my projects are available at [https://github.com/amitkedia007?tab=repositories)
 
 - 📫 How to reach me **amitkedia3000@gmail.com**
 
